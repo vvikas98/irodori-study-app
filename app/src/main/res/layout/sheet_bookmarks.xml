@@ -22,9 +22,8 @@
 
     <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="12dp"
-        android:maxHeight="320dp">
+        android:layout_height="260dp"
+        android:layout_marginTop="12dp" />
 
         <LinearLayout
             android:id="@+id/bookmarkListContainer"
